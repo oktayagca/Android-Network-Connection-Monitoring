@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Network Monitoring</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="established_internet_connection">Network Connection Established</string>
+    <string name="open_network_connection">Open Network Connection</string>
+    <string name="connected_network">Connected Network</string>
+</resources>
